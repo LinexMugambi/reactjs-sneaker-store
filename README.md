@@ -13,3 +13,4 @@
 1.6 <img src="https://user-images.githubusercontent.com/78819364/183139366-511b5236-1f01-4190-8353-4f749034916b.png" widht="50%" height="60%">
 
 1.7 <img src="https://user-images.githubusercontent.com/78819364/183139351-e3be8559-a45f-42a8-b51b-f1abe9dadf3d.png" widht="50%" height="60%">
+Update README.md with info 3
