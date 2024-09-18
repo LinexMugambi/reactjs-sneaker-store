@@ -13,17 +13,3 @@
 1.6 <img src="https://user-images.githubusercontent.com/78819364/183139366-511b5236-1f01-4190-8353-4f749034916b.png" widht="50%" height="60%">
 
 1.7 <img src="https://user-images.githubusercontent.com/78819364/183139351-e3be8559-a45f-42a8-b51b-f1abe9dadf3d.png" widht="50%" height="60%">
-Update README.md with info 3
-Update README.md with info 8
-Update README.md with info 13
-Update README.md with info 18
-Update README.md with info 23
-Update README.md with info 28
-Update README.md with info 33
-Update README.md with info 38
-Update README.md with info 43
-Update README.md with info 48
-Update README.md with info 53
-Update README.md with info 58
-Update README.md with info 63
-Update README.md with info 68
